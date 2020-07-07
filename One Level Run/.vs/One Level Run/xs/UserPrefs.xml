@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{9930648C-F0AA-440F-A655-4A581B5AD220}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Level.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player.cs">
     <Files>
       <File FileName="Assets/Scripts/HighScoreDisplay.cs" Line="30" Column="5" />
-      <File FileName="Assets/Scripts/GameSession.cs" />
-      <File FileName="Assets/Scripts/Level.cs" Line="31" Column="15" />
-      <File FileName="Assets/Scripts/Player.cs" />
+      <File FileName="Assets/Scripts/GameSession.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Level.cs" />
       <File FileName="Assets/Scripts/Shredder.cs" />
+      <File FileName="Assets/Scripts/Player.cs" Line="68" Column="49" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,17 +13,22 @@
           <Node name="One Level Run" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="Level.cs" selected="True" />
+                <Node name="Player.cs" selected="True" />
               </Node>
             </Node>
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="One Level Run" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6192570e-e839-4b6a-9908-c554efdbbfb9" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0f558420-579f-4aec-9227-ba026ea66270" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
